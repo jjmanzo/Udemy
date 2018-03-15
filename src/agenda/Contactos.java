@@ -17,5 +17,5 @@ public class Contactos {
 		}
 	}
 	
-	public
+	public void
 }
