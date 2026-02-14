@@ -15,3 +15,5 @@ jobs:
     steps:
       - name: 'Hola Muindo'
         run: echo "Hola Mundo"
+      - name: Dime la fecha
+        run: date
